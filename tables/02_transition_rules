@@ -1,0 +1,9 @@
+# 02 — Transition Rules
+
+This section defines the admissible transitions between congruity classes.
+
+Transition rules are structural constraints, not algorithms.
+They specify which moves are allowed, forbidden, or irreversible.
+
+This section is intentionally left minimal.
+Formal rules will be instantiated downstream, domain by domain.
