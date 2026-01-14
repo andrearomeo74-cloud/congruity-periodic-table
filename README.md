@@ -1,5 +1,11 @@
 # Congruity Periodic Table
 
+> **Canonical reference:** This repository is a *projection* of the canonical structural grammar defined in  
+> **`congruity-canonical-table`**.  
+> The Canonical Table fixes the grammar (closed at the structural level).  
+> The Periodic Table organizes cross-domain *regimes, admissibility classes, and transitions* as a navigable map.
+> This repo does **not** claim prediction or empirical validity — it is a structural framework for admissible transformations.
+
 This repository introduces the **Congruity Periodic Table**:  
 a unifying framework that organizes systems not by composition, but by **regimes of admissibility and proportionality**.
 
