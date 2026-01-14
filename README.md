@@ -8,6 +8,25 @@ this table organizes **physical, biological, cognitive, and artificial systems**
 
 ---
 
+## Repository Structure
+
+This repository is organized as a set of interlinked Congruity Tables.
+
+- `TABLE_OF_TABLES.md`  
+  Canonical meta-index of all Congruity Tables.  
+  Defines scope, domain, and admissibility regime for each table.
+
+- `tables/`  
+  Domain-specific Congruity Tables:
+  - `TABLE_01_BASE.md` — Base Congruity Classes
+  - `TABLE_02_PHYSICAL.md`
+  - `TABLE_03_BIOLOGICAL.md`
+  - `TABLE_04_COGNITIVE.md`
+  - `TABLE_05_SYSTEMIC.md`
+  - `TABLE_06_AI.md`
+    
+---
+
 ## What this is NOT
 - Not a taxonomy of objects
 - Not a metaphorical table
