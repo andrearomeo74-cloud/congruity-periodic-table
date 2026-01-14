@@ -88,6 +88,60 @@ Version: **v0.1 — Structural Draft**
 This repository will evolve as additional tables and mappings are introduced.
 
 ---
+---
+
+## How to Use the Congruity Periodic Table
+
+This repository is not a taxonomy of objects.
+It is a **diagnostic grammar** for systems.
+
+Each table represents a *regime of admissibility* —  
+a way to determine whether an action, optimization, or recursion
+is structurally legitimate.
+
+### Practical Use
+
+1. **Identify the system**
+   - biological
+   - cognitive
+   - technical
+   - economic
+   - physical
+
+2. **Locate the dominant regime**
+   - Which table best describes its current behavior?
+   - Is it stable, drifting, or collapsing?
+
+3. **Check proportionality**
+   - Is growth matched by structure?
+   - Is optimization eroding coherence?
+
+4. **Diagnose failure modes**
+   - Premature scaling
+   - Borrowed coherence
+   - Runaway recursion
+   - Hidden boundary violations
+
+5. **Decide admissible moves**
+   - What can grow?
+   - What must remain bounded?
+   - What must close before proceeding?
+
+### What the Tables Do *Not* Do
+
+- They do not predict outcomes
+- They do not optimize performance
+- They do not replace domain expertise
+
+They **define the space of moves that do not break the system**.
+
+### Final Principle
+
+Optimization without congruity creates collapse.
+Congruity without optimization creates stagnation.
+
+Sustainable systems require both —
+but congruity always comes first.
 
 ## Author
 
