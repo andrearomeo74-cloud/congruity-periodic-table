@@ -1,3 +1,6 @@
+> **Canonical anchor:** All tables listed here are projections of the canonical structural grammar defined in `congruity-canonical-table`.  
+> This index does not define new rules — it organizes admissible regimes across domains.
+
 # Table of Tables — Congruity Framework
 
 This repository acts as a **navigation hub** for all Congruity tables, atlases,
