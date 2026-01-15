@@ -1,0 +1,21 @@
+ADMISSIBILITY FLOW (STRUCTURAL)
+
+Input:
+- State(s)
+- Transition(s)
+
+Checks:
+1. State exists in canonical grammar
+2. Transition is structurally allowed
+3. No forbidden jump
+4. All prerequisites satisfied
+
+Output:
+- ADMISSIBLE
+- NOT ADMISSIBLE (forbidden)
+- NOT ADMISSIBLE (prerequisite violation)
+
+Notes:
+- No optimization
+- No prediction
+- No domain semantics
