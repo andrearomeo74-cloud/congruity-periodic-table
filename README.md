@@ -1,5 +1,22 @@
 # Congruity Periodic Table
 
+## Where to start
+
+Congruity is structured in three layers:
+
+1. **Canonical Grammar (foundation)**  
+   Defines admissible states and transitions independently of domains or optimization.  
+   → https://github.com/andrearomeo74-cloud/congruity-canonical-table/blob/main/PAPER.md
+
+2. **Periodic Tables (projections)**  
+   Domain-specific projections of the canonical grammar (AI, biology, markets, systems).
+
+3. **Admissibility Checker (toy model)**  
+   Minimal verification of admissible and non-admissible paths.  
+   → https://github.com/andrearomeo74-cloud/congruity-admissibility-checker
+
+---
+
 > **Canonical reference:** This repository is a *projection* of the canonical structural grammar defined in  
 > **`congruity-canonical-table`**.  
 > The Canonical Table fixes the grammar (closed at the structural level).  
