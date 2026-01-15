@@ -1,0 +1,16 @@
+┌──────────────────────────┐
+│  Canonical Grammar       │
+│  (closed, structural)    │
+└─────────────┬────────────┘
+              │ projection
+              ▼
+┌──────────────────────────┐
+│  Congruity Periodic      │
+│  Tables (domain views)   │
+└─────────────┬────────────┘
+              │ verification
+              ▼
+┌──────────────────────────┐
+│  Admissibility Checker   │
+│  (toy / path validation) │
+└──────────────────────────┘
