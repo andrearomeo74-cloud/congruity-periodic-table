@@ -141,6 +141,14 @@ is structurally legitimate.
 
 They **define the space of moves that do not break the system**.
 
+## Canonical Grammar
+
+The canonical admissibility grammar underlying all Congruity projections is defined here:
+
+➡️ https://github.com/andrearomeo74-cloud/congruity-canonical-table/blob/main/PAPER.md
+
+This document defines states, transitions, and admissibility independently of domains, metrics, or optimization.
+
 ### Final Principle
 
 Optimization without congruity creates collapse.
